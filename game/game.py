@@ -150,7 +150,7 @@ while True:
 
         # Increase speed after every 100 points
         if score % 100 == 0 and score != 0:
-            enemy_speed += 0.01
+            enemy_speed += 0.25
             
         # Check for the score threshold to randomly enlarge enemies
         if score >= 100:
