@@ -3,7 +3,7 @@
 
 ## Overview 
 
-Small projects with Python are placed in this repository. This enables us to create amazing things together.
+Small projects with Python are placed in this repository. This enables us to create amazing things together
 
 > **_NOTE:_**  Do not forget to have Python installed in your system to run these projects.
 >
