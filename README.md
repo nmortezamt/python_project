@@ -1,4 +1,4 @@
-# python_project 1
+# python_project
 ![Python Image](https://www.python.org/static/img/python-logo.png)
 
 ## Overview 
